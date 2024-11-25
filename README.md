@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bennykw404&label=Profile%20views&color=0e75b6&style=flat" alt="bennykw404" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio/](https://muhamad-syabaini.vercel.app)/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://muhamad-syabaini.vercel.app))
 
 - 📫 How to reach me **muhamadsyabaini@gmail.com**
 
